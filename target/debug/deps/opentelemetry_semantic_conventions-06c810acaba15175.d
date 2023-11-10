@@ -1,0 +1,9 @@
+/Users/flowalex/git/rust-web/target/debug/deps/libopentelemetry_semantic_conventions-06c810acaba15175.rmeta: /Users/flowalex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.12.0/src/lib.rs /Users/flowalex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.12.0/src/resource.rs /Users/flowalex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.12.0/src/trace.rs
+
+/Users/flowalex/git/rust-web/target/debug/deps/libopentelemetry_semantic_conventions-06c810acaba15175.rlib: /Users/flowalex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.12.0/src/lib.rs /Users/flowalex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.12.0/src/resource.rs /Users/flowalex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.12.0/src/trace.rs
+
+/Users/flowalex/git/rust-web/target/debug/deps/opentelemetry_semantic_conventions-06c810acaba15175.d: /Users/flowalex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.12.0/src/lib.rs /Users/flowalex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.12.0/src/resource.rs /Users/flowalex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.12.0/src/trace.rs
+
+/Users/flowalex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.12.0/src/lib.rs:
+/Users/flowalex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.12.0/src/resource.rs:
+/Users/flowalex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.12.0/src/trace.rs:
